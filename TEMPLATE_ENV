@@ -1,0 +1,8 @@
+GEMINI_API_KEY = ""
+
+TWITTER_USERNAME = "@"
+TWITTER_PASSWORD = ""
+NUM_OF_POSTS = 10
+
+LOG_PATH = "TwitterAutomation.log"
+CHROME_DRIVER_PATH = "chromedriver.exe"
