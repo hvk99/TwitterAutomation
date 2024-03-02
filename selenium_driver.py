@@ -1,11 +1,14 @@
+import os
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
+from log_printer import print_log
 
 def get_driver(url):
 
     try:
-        chrome_driver_location = r"D:\CS\Python\Automate Everything with Python\chromedriver-win64\chromedriver.exe"
+        chrome_driver_location = os.getenv("CHROME_DRIVER_PATH")
         print_log(f"Using chrome driver at location: {chrome_driver_location}")
         service = Service(chrome_driver_location)
         

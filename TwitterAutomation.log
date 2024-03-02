@@ -1,0 +1,98 @@
+02-03-2024.22-28-08	hello
+02-03-2024.22-28-08	====================Starting New Run====================
+02-03-2024.22-28-08	Using chrome driver at location: D:\CS\Python\Automate Everything with Python\chromedriver-win64\chromedriver.exe
+02-03-2024.22-28-08	Setting browser options
+02-03-2024.22-28-09	Opening X.com
+02-03-2024.22-28-11	Sleeping for 2 seconds
+02-03-2024.22-28-13	Starting login process now...
+02-03-2024.22-28-13	Finding and clicking sign in button.
+02-03-2024.22-28-14	Sleeping for 2 seconds
+02-03-2024.22-28-16	Finding username input box and entering username.
+02-03-2024.22-28-16	Finding next button and clicking it.
+02-03-2024.22-28-16	Sleeping for 2 seconds
+02-03-2024.22-28-18	Finding password input box and entering username.
+02-03-2024.22-28-18	Finding and clicking login button now.
+02-03-2024.22-28-18	Logged In
+02-03-2024.22-28-18	Configuring Gemini
+02-03-2024.22-28-18	Using prompt: Generate only one viral tech tweet with hashtags. This tweet should be a joke or a pun related to the world of tech and programming. Keep the tone more like a curious human and less like someone trying to sell something. Don't explain your answer.
+02-03-2024.22-28-25	Finding and clicking Post button.
+02-03-2024.22-28-25	Filling in the content.
+02-03-2024.22-28-25	NameError: name 'ActionChains' is not defined
+02-03-2024.22-28-25	Post 1 out of 10 posted.
+02-03-2024.22-28-25	Next post in 60 mins.
+02-03-2024.22-29-25	Next post in 59 mins.
+02-03-2024.22-30-49	hello
+02-03-2024.22-30-49	====================Starting New Run====================
+02-03-2024.22-30-49	Using chrome driver at location: D:\CS\Python\Automate Everything with Python\chromedriver-win64\chromedriver.exe
+02-03-2024.22-30-49	Setting browser options
+02-03-2024.22-30-50	Opening X.com
+02-03-2024.22-30-52	Sleeping for 2 seconds
+02-03-2024.22-30-54	Starting login process now...
+02-03-2024.22-30-54	Finding and clicking sign in button.
+02-03-2024.22-30-55	Sleeping for 2 seconds
+02-03-2024.22-30-57	Finding username input box and entering username.
+02-03-2024.22-30-57	Finding next button and clicking it.
+02-03-2024.22-30-57	Sleeping for 2 seconds
+02-03-2024.22-30-59	Finding password input box and entering username.
+02-03-2024.22-30-59	Finding and clicking login button now.
+02-03-2024.22-30-59	Logged In
+02-03-2024.22-30-59	Configuring Gemini
+02-03-2024.22-30-59	Using prompt: Generate only one viral tech tweet with hashtags. This tweet should be question about some tech preference. Keep the tone more like a curious human and less like someone trying to sell something. Don't explain your answer.
+02-03-2024.22-31-02	Finding and clicking Post button.
+02-03-2024.22-31-03	Filling in the content.
+02-03-2024.22-31-09	NameError: name 'Keys' is not defined
+02-03-2024.22-31-09	Post 1 out of 10 posted.
+02-03-2024.22-31-09	Next post in 60 mins.
+02-03-2024.22-32-12	hello
+02-03-2024.22-32-12	====================Starting New Run====================
+02-03-2024.22-32-12	Using chrome driver at location: D:\CS\Python\Automate Everything with Python\chromedriver-win64\chromedriver.exe
+02-03-2024.22-32-12	Setting browser options
+02-03-2024.22-32-13	Opening X.com
+02-03-2024.22-32-16	Sleeping for 2 seconds
+02-03-2024.22-32-18	Starting login process now...
+02-03-2024.22-32-18	Finding and clicking sign in button.
+02-03-2024.22-32-18	Sleeping for 2 seconds
+02-03-2024.22-32-20	Finding username input box and entering username.
+02-03-2024.22-32-20	Finding next button and clicking it.
+02-03-2024.22-32-20	Sleeping for 2 seconds
+02-03-2024.22-32-22	Finding password input box and entering username.
+02-03-2024.22-32-22	Finding and clicking login button now.
+02-03-2024.22-32-22	Logged In
+02-03-2024.22-32-22	Configuring Gemini
+02-03-2024.22-32-22	Using prompt: Generate only one viral tech tweet with hashtags. This tweet should be a joke or a pun related to the world of tech and programming. Keep the tone more like a curious human and less like someone trying to sell something. Don't explain your answer.
+02-03-2024.22-32-27	Finding and clicking Post button.
+02-03-2024.22-32-27	Filling in the content.
+02-03-2024.22-32-32	Finding and clicking Post button again.
+02-03-2024.22-32-32	Posted
+02-03-2024.22-32-32	Post 1 out of 10 posted.
+02-03-2024.22-32-32	Next post in 60 mins.
+02-03-2024.22-33-32	Next post in 59 mins.
+02-03-2024.22-34-32	Next post in 58 mins.
+02-03-2024.22-35-32	Next post in 57 mins.
+02-03-2024.22-36-32	Next post in 56 mins.
+02-03-2024.22-37-32	Next post in 55 mins.
+02-03-2024.22-38-32	Next post in 54 mins.
+02-03-2024.22-39-32	Next post in 53 mins.
+02-03-2024.22-40-32	Next post in 52 mins.
+02-03-2024.22-41-32	Next post in 51 mins.
+02-03-2024.22-42-32	Next post in 50 mins.
+02-03-2024.22-43-32	Next post in 49 mins.
+02-03-2024.22-44-32	Next post in 48 mins.
+02-03-2024.22-45-32	Next post in 47 mins.
+02-03-2024.22-46-32	Next post in 46 mins.
+02-03-2024.22-47-32	Next post in 45 mins.
+02-03-2024.22-48-32	Next post in 44 mins.
+02-03-2024.22-49-32	Next post in 43 mins.
+02-03-2024.22-50-32	Next post in 42 mins.
+02-03-2024.22-51-32	Next post in 41 mins.
+02-03-2024.22-52-32	Next post in 40 mins.
+02-03-2024.22-53-32	Next post in 39 mins.
+02-03-2024.22-54-32	Next post in 38 mins.
+02-03-2024.22-55-32	Next post in 37 mins.
+02-03-2024.22-56-32	Next post in 36 mins.
+02-03-2024.22-57-32	Next post in 35 mins.
+02-03-2024.22-58-32	Next post in 34 mins.
+02-03-2024.22-59-32	Next post in 33 mins.
+02-03-2024.23-00-32	Next post in 32 mins.
+02-03-2024.23-01-32	Next post in 31 mins.
+02-03-2024.23-02-32	Next post in 30 mins.

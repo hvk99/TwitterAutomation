@@ -1,9 +1,8 @@
 import os
 import google.generativeai as genai
-from dotenv import load_dotenv
-from pathlib import Path
+from random import randrange
 
-load_dotenv(dotenv_path=Path(".env"))
+from log_printer import print_log
 
 def get_content_using_AI():
 
@@ -23,7 +22,7 @@ def get_content_using_AI():
         "Generate only one viral tech tweet with hashtags. This tweet should be a joke or a pun related to the world of tech and programming. Keep the tone more like a curious human and less like someone trying to sell something. Don't explain your answer.",
         ]
         
-        prompt = prompts[random.randrange(len(prompts))]
+        prompt = prompts[randrange(len(prompts))]
 
         print_log(f"Using prompt: {prompt}")
         response = model.generate_content(prompt)
