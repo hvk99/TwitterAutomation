@@ -5,6 +5,7 @@ from datetime import datetime
 log_path = os.getenv("LOG_PATH")
 log_path = "TwitterAutomation.log"
 
+
 def print_log(message):
 
     with open(log_path, "a") as f:
@@ -18,5 +19,3 @@ def print_decorative_log(message):
         time_now = datetime.now().strftime("%d-%m-%Y.%H-%M-%S")
         surround = "=" * 20
         f.write(f"{time_now}\t{surround}{message}{surround}\n")
-
-print_log("hello")
