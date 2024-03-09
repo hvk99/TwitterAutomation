@@ -2,4 +2,4 @@
 __pycahce__
 .env
 .vscode/
-.log
+*.log
