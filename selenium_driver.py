@@ -27,6 +27,7 @@ def get_driver(url):
         driver = webdriver.Chrome(options=options, service=service)
         print_log("Opening X.com")
         driver.get(url)
+        driver.set_window_size(1920, 1080)
         return driver
 
     except Exception as e:
