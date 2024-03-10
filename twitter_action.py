@@ -43,6 +43,9 @@ def login(driver, username, password):
         print_log("Logged In")
 
     except Exception as e:
+        driver.save_screenshot(
+            f"ScreenShot_{datetime.now().strftime('%d-%m-%Y.%H-%M-%S')}.png"
+        )
         print_log(f"{type(e).__name__}: {e}")
         print(f"{type(e).__name__}: {e}")
 
@@ -67,5 +70,8 @@ def post_content(driver, content):
         print_log("Posted")
 
     except Exception as e:
+        driver.save_screenshot(
+            f"ScreenShot_{datetime.now().strftime('%d-%m-%Y.%H-%M-%S')}.png"
+        )
         print_log(f"{type(e).__name__}: {e}")
         print(f"{type(e).__name__}: {e}")
