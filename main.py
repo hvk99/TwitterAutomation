@@ -29,7 +29,7 @@ time.sleep(2)
 print_log("Starting login process now...")
 login(driver, username, password)
 
-for i in range(1, os.getenv("NUM_OF_POSTS") + 1):
+for i in range(1, int(os.getenv("NUM_OF_POSTS")) + 1):
     content = get_content_using_AI()
     post_content(driver, content)
     print_log(f"Post {i} out of 10 posted.")
